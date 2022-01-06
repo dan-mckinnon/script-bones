@@ -1,0 +1,13 @@
+{
+  "name": "script-bones",
+  "version": "0.0.1",
+  "lockfileVersion": 1,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "script-bones",
+      "version": "0.0.1",
+      "license": "ISC"
+    }
+  }
+}
